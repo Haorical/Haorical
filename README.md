@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Haorical's GitHub stats](https://github-readme-stats.vercel.app/api?username=haorical)](https://github.com/anuraghazra/github-readme-stats)
+[![Haorical's GitHub stats](https://github-readme-stats.vercel.app/api?username=haorical&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Here are some ideas to get you started:
